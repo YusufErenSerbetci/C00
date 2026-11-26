@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yserbetc <yserbetc@student.42istanbul.com.tr +#+  +:+       +#+        */
+/*   By: yserbetc <yserbetc@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/19 21:30:00 by yserbetc          #+#    #+#             */
-/*   Updated: 2026/11/19 21:30:00 by yserbetc         ###   ########.fr       */
+/*   Created: 2026/11/26 22:39:29 by yserbetc          #+#    #+#             */
+/*   Updated: 2026/11/26 22:44:51 by yserbetc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
